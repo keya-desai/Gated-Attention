@@ -1,7 +1,6 @@
 # Gated Attention
 
-Implementation of the paper : [Not all attention is needed - Gated Attention Network for Sequence Data (GA-Net)]
-(https://arxiv.org/abs/1912.00349) 
+Implementation of the paper : [Not all attention is needed - Gated Attention Network for Sequence Data (GA-Net)](https://arxiv.org/abs/1912.00349) 
 
 ##### Flow Diagram for the network:  
 There are two networks in the model:  
